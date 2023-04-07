@@ -38,7 +38,7 @@
     "dotenv": "^8.2.0",
     "fluent-ffmpeg": "^2.1.2",
     "lodash": "^4.17.21",
-    "ring-client-api": "^9.24.0"
+    "ring-client-api": "^11.7.5"
   },
   "funding": {
     "type": "individual",
